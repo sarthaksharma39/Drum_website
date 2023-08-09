@@ -1,0 +1,48 @@
+body{
+    background-color: navy;
+    color:deeppink;
+    background-image: url("back2.png");
+    background-size: 8vw;
+    margin: 0;
+}
+h1{
+    text-align: center;
+    font-size: 4vw;
+    text-shadow: 1.5px 1.5px 2px #f9f22ce6;
+    background-color: black;
+    width: 21vw;
+    margin-left: 39%;
+}
+.alldrum{
+    width: 80%;
+    margin-left: 15%;
+}
+.drum{
+    display: inline-block;
+    background-color: bisque;
+    color: deeppink;
+    height: 7vw;
+    width: 9vw;
+    font-size: 4vw;
+    text-align: center;
+    margin: 2.5vw;
+    
+    /* margin-top: 15vw; */
+    border: 5px solid rgba(255, 20, 145, 0.47);
+    border-radius: 20px;
+    padding: 10px;
+    
+}
+.a, .s, .d, .f, .j{
+    margin-top: 5vw;
+}
+.k{
+    margin-left: 17vw;
+}
+.end{
+    
+    color: white;
+    position: absolute;
+    bottom: 0;
+    left: 43%;
+}
